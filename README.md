@@ -7,7 +7,8 @@
 ### *Junxing(J.C.) Chen* is a Data Scientist at IBM with strong interests in machine learning and cutting-edge technologies.
 
 
-#### Mentee assignment from IBM Advance AI @ Infinite Learning Course completation. In this guided project, I create anime characters using DCGANs and Keras
+## Mentee assignment from IBM Advance AI @ Infinite Learning Course completation. In this guided project, I create anime characters using DCGANs and Keras
+
 
 
 
